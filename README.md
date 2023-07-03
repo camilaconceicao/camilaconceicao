@@ -2,8 +2,6 @@
 
 👀 I consider myself a lifelong learner
 
-🌱 I’m currently learning Java at Entra21
-
 📫 How to reach me www.linkedin.com/in/camila-conceicao
 
 <!---
